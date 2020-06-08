@@ -26,6 +26,7 @@
     "@ionic-native/splash-screen": "~4.20.0",
     "@ionic-native/status-bar": "~4.20.0",
     "@ionic/storage": "2.2.0",
+    "braces": "^3.0.2",
     "cordova-android": "8.0.0",
     "cordova-plugin-device": "2.0.2",
     "cordova-plugin-geolocation": "4.0.1",
