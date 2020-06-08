@@ -1,5 +1,7 @@
 {
   "name": "livetracking",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular"
 }
